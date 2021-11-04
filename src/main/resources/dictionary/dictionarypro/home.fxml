@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#ignore" prefHeight="500.0" prefWidth="700.0" style="-fx-background-color: Gray;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dictionary.dictionarypro.Controller">
+   <children>
+      <Pane layoutY="-2.0" prefHeight="60.0" prefWidth="700.0" style="-fx-background-color: #111111;" />
+      <Button layoutX="518.0" layoutY="27.0" mnemonicParsing="false" onAction="#usingAPI">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@internet.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label layoutX="310.0" style="-fx-text-fill: white;" styleClass="text" text="Dictionary">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField id="searchBox" fx:id="searchBox" layoutX="7.0" layoutY="28.0" onKeyPressed="#searchWord" prefHeight="26.0" prefWidth="258.0" promptText="Type here to search" />
+      <ListView fx:id="resultSearch" layoutX="7.0" layoutY="64.0" onMouseClicked="#viewDetail" prefHeight="426.0" prefWidth="258.0" />
+      <Label fx:id="wordTargetLabel" layoutX="277.0" layoutY="64.0" style="-fx-text-fill: white;" styleClass="text">
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Label>
+      <Label fx:id="wordTypeLabel" layoutX="277.0" layoutY="123.0" style="-fx-text-fill: white;" styleClass="text">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="wordPronunciationLabel" layoutX="481.0" layoutY="123.0" style="-fx-text-fill: white;" styleClass="text">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="wordExplainLabel" layoutX="277.0" layoutY="183.0" style="-fx-text-fill: white;" styleClass="text">
+         <font>
+            <Font size="34.0" />
+         </font>
+      </Label>
+      <Button layoutX="650.0" layoutY="27.0" mnemonicParsing="false" onAction="#remove">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@remove.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button layoutX="607.0" layoutY="27.0" mnemonicParsing="false" onAction="#change">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@change.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button layoutX="563.0" layoutY="27.0" mnemonicParsing="false" onAction="#add">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@add.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button layoutX="650.0" layoutY="81.0" mnemonicParsing="false" onAction="#speak">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@voice.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button layoutX="650.0" layoutY="458.0" mnemonicParsing="false" onAction="#save">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@save.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
