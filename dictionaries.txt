@@ -1,500 +1,500 @@
-map	(n)	/mæp/	Bản đồ
-government	(n)	/ˈgʌvnmənt/	Chính phủ
-way	(n)	/weɪ/	Đường
-art	(n)	/ɑːt/	Nghệ thuật
-world	(n)	/wɜːld/	Thế giới
-computer	(n)	/kəmˈpjuːtə/	Máy tính
-people	(n)	/ˈpiːpl/	Người
-two	(n)	/tuː/	Hai
-family	(n)	/ˈfæmɪli/	Gia đình
-history	(n)	/ˈhɪstəri/	Lịch sử
-health	(n)	/hɛlθ/	Sức khỏe
-system	(n)/ˈsɪstɪm/	Hệ	thống
-information	(n)	/ˌɪnfəˈmeɪʃən/	Thông tin
-meat	(n)	/miːt/	Thịt
-year	(n)	/jɪə/	Năm
-thanks	(n)	/θæŋks/	Lời cảm ơn
-music	(n)	/ˈmjuːzɪk/	Âm nhạc
-person	(n)	/ˈpɜːsn/	Người
-reading	(n)	/ˈriːdɪŋ/	Cách đọc
-method	(n)	/ˈmɛθəd/	Phương pháp
-data	(n)	/ˈdeɪtə/	Dữ liệu
-food	(n)	/fuːd/	Thức ăn
-understanding	(n)	/ˌʌndəˈstændɪŋ/	Hiểu biết
-theory	(n)	/ˈθɪəri/	Lý thuyết
-law	(n)	/lɔː/	Pháp luật
-bird	(n)	/bɜːd/	Chim
-literature	(n)	/ˈlɪtərɪʧə/	Văn chương
-problem	(n)	/ˈprɒbləm/	Vấn đề
-software	(n)	/ˈsɒftweə/	Phần mềm
-control	(v)	/kənˈtrəʊl/	Điều khiển
-knowledge	(n)	/ˈnɒlɪʤ/	Kiến thức
-power	(n)	/ˈpaʊə/	Quyền lực
 ability	(n)	/əˈbɪlɪti/	Khả năng
-economics	(n)	/ˌiːkəˈnɒmɪks/	Kinh tế học
-love	(n)	/lʌv/	Tình Yêu
-internet	(n)	/ˈɪntəˌnɛt/	Internet
-television	(n)	/ˈtɛlɪˌvɪʒən/	Tivi
-science	(n)	/ˈsaɪəns/	Khoa học
-library	(n)	/ˈlaɪbrəri/	Thư viện
-nature	(n)	/ˈneɪʧə/	Bản chất
-fact	(n)	/fækt/	Việc
-product	(n)	/ˈprɒdʌkt/	Sản phẩm
-idea	(n)	/aɪˈdɪə/	Ý kiến
-temperature	(n)	/ˈtɛmprɪʧə/	Nhiệt độ
-investment	(n)	/ɪnˈvɛstmənt/	Đầu tư
-area	(n)	/ˈeərɪə/	Khu vực
-society	(n)	/səˈsaɪəti/	Xã hội
-activity	(n)	/ækˈtɪvɪti/	Hoạt động
-story	(n)	/ˈstɔːri/	Câu chuyện
-industry	(n)	/ˈɪndəstri/	Ngành công nghiệp
-media	(n)	/ˈmɛdɪə/	Phương tiện truyền thông
-thing	(n)	/θɪŋ/	những vật
-oven	(n)	/ˈʌvn/	Lò nướng
-community	(n)	/kəˈmjuːnɪti/	Cộng đồng
-definition	(n)	/ˌdɛfɪˈnɪʃən/	Định nghĩa
-safety	(n)	/ˈseɪfti/	Sự an toàn
-quality	(n)	/ˈkwɒlɪti/	Chất lượng
-development	(n)	/dɪˈvɛləpmənt/	Phát triển
-language	(n)	/ˈlæŋgwɪʤ/	Ngôn ngữ
-management	(n)	/ˈmænɪʤmənt/	Quản lý
-player	(n)	/ˈpleɪə/	Người chơi
-variety	(n)	/vəˈraɪəti/	Đa dạng
-video	(n)	/ˈvɪdɪəʊ/	Video
-week	(n)	/wiːk/	Tuần
-security	(n)	/sɪˈkjʊərɪti/	An ninh
-country	(n)	/ˈkʌntri/	Nước
-exam	(n)	/ɪgˈzæm/	Thi
-movie	(n)	/ˈmuːvi/	Phim
-organization	(n)	/ˌɔːgənaɪˈzeɪʃən/	Cơ quan
-equipment	(n)	/ɪˈkwɪpmənt/	Thiết bị
-physics	(n)	/ˈfɪzɪks/	Vật lý
-analysis	(n)	/əˈnæləsɪs/	Nghiên cứu
-policy	(n)	/ˈpɒlɪsi/	Chính sách
-series	(n)	/ˈsɪəriːz/	Loạt
-thought	(n)	/θɔːt/	Tư tưởng
-basis	(n)	/ˈbeɪsɪs/	Căn cứ
-boyfriend	(n)	/ˈbɔɪˌfrɛnd/	Bạn trai
-direction	(n)	/dɪˈrɛkʃən/	Phương hướng
-strategy	(n)	/ˈstrætɪʤi/	Chiến lược
-technology	(n)	/tɛkˈnɒləʤi/	Công nghệ
-army	(n)	/ˈɑːmi/	Quân đội
-camera	(n)	/ˈkæmərə/	Máy chụp hình
-freedom	(n)	/ˈfriːdəm/	Sự tự do
-paper	(n)	/ˈpeɪpə/	Giấy
-environment	(n)	/ɪnˈvaɪərənmənt/	Môi trường
-child	(n)	/ʧaɪld/	Trẻ em
-instance	(n)	/ˈɪnstəns/	Trường hợp
-month	(n)	/mʌnθ/	Tháng
-truth	(n)	/truːθ/	Sự thật
-marketing	(n)	/ˈmɑːkɪtɪŋ/	Thị trường
-university	(n)	/ˌjuːnɪˈvɜːsɪti/	Trường đại học
-writing	(n)	/ˈraɪtɪŋ/	Hiện ra, sự viết
-article	(n)	/ˈɑːtɪkl/	Điều khoản
-department	(n)	/dɪˈpɑːtmənt/	Bộ
-difference	(n)	/ˈdɪfrəns/	Khác nhau
-goal	(n)	/gəʊl/	Mục tiêu
-news	(n)	/njuːz/	Tin tức
-audience	(n)	/ˈɔːdjəns/	Khán giả
-fishing	(n)	/ˈfɪʃɪŋ/	Câu cá
-growth	(n)	/grəʊθ/	Sự tăng trưởng
-income	(n)	/ˈɪnkʌm/	Lợi tức
-marriage	(n)	/ˈmærɪʤ/	Hôn nhân
-user	(n)	/ˈjuːzə/	Người sử dụng
-combination	(n)	/ˌkɒmbɪˈneɪʃən/	Phối hợp
-failure	(n)	/ˈfeɪljə/	Thất bại
-meaning	(n)	/ˈmiːnɪŋ/	Nghĩa
-medicine	(n)	/ˈmɛdsɪn/	Y học
-philosophy	(n)	/fɪˈlɒsəfi/	Triết học
-teacher	(n)	/ˈtiːʧə/	Giáo viên
-communication	(n)	/kəˌmjuːnɪˈkeɪʃən/	Liên lạc
-night	(n)	/naɪt/	Đêm
-chemistry	(n)	/ˈkɛmɪstri/	Hóa học
-disease	(n)	/dɪˈziːz/	Căn bệnh
-disk	(n)	/dɪsk/	Đĩa
-energy	(n)	/ˈɛnəʤi/	Năng lượng
-nation	(n)	/ˈneɪʃən/	Quốc gia
-road	(n)	/rəʊd/	Đường
-role	(n)	/rəʊl/	Vai trò
-soup	(n)	/suːp/	Soup
-advertising	(n)	/ˈædvətaɪzɪŋ/	Quảng cáo
-location	(n)	/ləʊˈkeɪʃən/	Vị trí
-success	(n)	/səkˈsɛs/	Sự thành công
-addition	(n)	/əˈdɪʃ(ə)n/	Thêm vào
-apartment	(n)	/əˈpɑːtmənt/	Căn hộ
-education	(n)	/ˌɛdju(ː)ˈkeɪʃən/	Sự giáo dục
-math	(n)	/mæθ/	Toán học
-moment	(n)	/ˈməʊmənt/	Chốc lát
-painting	(n)	/ˈpeɪntɪŋ/	Bức tranh
-politics	(n)	/ˈpɒlɪtɪks/	Chính trị
-attention	(n)	/əˈtɛnʃ(ə)n/	Chú ý
-decision	(n)	/dɪˈsɪʒən/	Phán quyết
-event	(n)	/ɪˈvɛnt/	Biến cố
-property	(n)	/ˈprɒpəti/	Bất động sản
-shopping	(n)	/ˈʃɒpɪŋ/	Mua sắm
-student	(n)	/ˈstjuːdənt/	Sinh viên
-wood	(n)	/wʊd/	Gỗ
-competition	(n)	/ˌkɒmpɪˈtɪʃən/	Cuộc thi
-distribution	(n)	/ˌdɪstrɪˈbjuːʃən/	Phân phát
-entertainment	(n)	/ˌɛntəˈteɪnmənt/	Giải trí
-office	(n)	/ˈɒfɪs/	Văn phòng
-population	(n)	/ˌpɒpjʊˈleɪʃən/	Dân số
-president	(n)	/ˈprɛzɪdənt/	Chủ tịch
-unit	(n)	/ˈjuːnɪt/	Đơn vị
-category	(n)	/ˈkætɪgəri/	Thể loại
-cigarette	(n)	/ˌsɪgəˈrɛt/	Thuốc lá
-context	(n)	/ˈkɒntɛkst/	Bối cảnh
-introduction	(n)	/ˌɪntrəˈdʌkʃən/	Sự giới thiệu
-opportunity	(n)	/ˌɒpəˈtjuːnɪti/	Cơ hội
-performance	(n)	/pəˈfɔːməns/	Hiệu suất
-driver	(n)	/ˈdraɪvə/	Người lái xe
-flight	(n)	/flaɪt/	Chuyến bay
-length	(n)	/lɛŋθ/	Chiều dài
-magazine	(n)	/ˌmægəˈziːn/	Tạp chí
-newspaper	(n)	/ˈnjuːzˌpeɪpə/	Báo
-relationship	(n)	/rɪˈleɪʃənʃɪp/	Mối quan hệ
-teaching	(n)	/ˈtiːʧɪŋ/	Giảng dạy
-cell	(n)	/sɛl/	Tế bào
-dealer	(n)	/ˈdiːlə/	Người chia bài
-debate	(n)	/dɪˈbeɪt/	Tranh luận
-finding	(n)	/ˈfaɪndɪŋ/	Phát hiện
-lake	(n)	/leɪk/	Hồ
-member	(n)	/ˈmɛmbə/	Thành viên
-message	(n)	/ˈmɛsɪʤ/	Thông điệp
-phone	(n)	/fəʊn/	Điện thoại
-scene	(n)	/siːn/	Sân khấu
-appearance	(n)	/əˈpɪərəns/	Xuất hiện
-association	(n)	/əˌsəʊsɪˈeɪʃ(ə)n/	Sự kết hợp
-concept	(n)	/ˈkɒnsɛpt/	Khái niệm
-customer	(n)	/ˈkʌstəmə/	Khách hàng
-death	(n)	/dɛθ/	Sự chết
-discussion	(n)	/dɪsˈkʌʃən/	Thảo luận
-housing	(n)	/ˈhaʊzɪŋ/	Nhà ở
-inflation	(n)	/ɪnˈfleɪʃən/	Sự lạm phát
-insurance	(n)	/ɪnˈʃʊərəns/	Bảo hiểm
-mood	(n)	/muːd/	Khí sắc
-woman	(n)	/ˈwʊmən/	Đàn bà
-advice	(n)	/ədˈvaɪs/	Lời khuyên
-blood	(n)	/blʌd/	Máu
-effort	(n)	/ˈɛfət/	Cố gắng
-expression	(n)	/ɪksˈprɛʃən/	Biểu hiện
-importance	(n)	/ɪmˈpɔːtəns/	Tầm quan trọng
-opinion	(n)	/əˈpɪnjən/	Ý kiến
-payment	(n)	/ˈpeɪmənt/	Thanh toán
-reality	(n)	/ri(ː)ˈælɪti/	Thực tế
-responsibility	(n)	/rɪsˌpɒnsəˈbɪlɪti/	Trách nhiệm
-situation	(n)	/ˌsɪtjʊˈeɪʃən/	Tình hình
-skill	(n)	/skɪl/	Kỹ năng
-statement	(n)	/ˈsteɪtmənt/	Tuyên bố
-wealth	(n)	/wɛlθ/	Sự giàu có
-application	(n)	/ˌæplɪˈkeɪʃ(ə)n/	Ứng dụng
-city	(n)	/ˈsɪti/	Thành phố
-county	(n)	/ˈkaʊnti/	Quận
-depth	(n)	/dɛpθ/	Chiều sâu
-estate	(n)	/ɪsˈteɪt/	Tài sản
-foundation	(n)	/faʊnˈdeɪʃən/	Nền tảng
-grandmother	(n)	/ˈgrænˌmʌðə/	Bà ngoại
-heart	(n)	/hɑːt/	Tim
-perspective	(n)	/pəˈspɛktɪv/	Quan điểm
-photo	(n)	/ˈfəʊtəʊ/	Ảnh
-recipe	(n)	/ˈrɛsɪpi/	Công thức
-studio	(n)	/ˈstjuːdɪəʊ/	Phòng thu
-topic	(n)	/ˈtɒpɪk/	Chủ đề
-collection	(n)	/kəˈlɛkʃən/	Bộ sưu tập
-depression	(n)	/dɪˈprɛʃən/	Phiền muộn
-imagination	(n)	/ɪˌmæʤɪˈneɪʃən/	Sự tưởng tượng
-passion	(n)	/ˈpæʃən/	Tình yêu
-percentage	(n)	/pəˈsɛntɪʤ/	Tỷ lệ phần trăm
-resource	(n)	/rɪˈsɔːs/	Tài nguyên
-setting	(n)	/ˈsɛtɪŋ/	Thiết lập
-ad	(n)	/æd/	Quảng cáo
-agency	(n)	/ˈeɪʤənsi/	Đại lý
-college	(n)	/ˈkɒlɪʤ/	Trường đại học
-connection	(n)	/kəˈnɛkʃən/	Liên quan
-criticism	(n)	/ˈkrɪtɪsɪzm/	Sự chỉ trích
-debt	(n)	/dɛt/	Nợ nần
-description	(n)	/dɪsˈkrɪpʃən/	Miêu tả
-memory	(n)	/ˈmɛməri/	Trí nhớ
-patience	(n)	/ˈpeɪʃəns/	Kiên nhẫn
-secretary	(n)	/ˈsɛkrətri/	Thư ký
-solution	(n)	/səˈluːʃən/	Dung dịch
-administration	(n)	/ədˌmɪnɪsˈtreɪʃ(ə)n/	Quyền quản trị
-aspect	(n)	/ˈæspɛkt/	Diện mạo
-attitude	(n)	/ˈætɪtjuːd/	Thái độ
-director	(n)	/dɪˈrɛktə/	Giám đốc
-personality	(n)	/ˌpɜːsəˈnælɪti/	Nhân cách
-psychology	(n)	/saɪˈkɒləʤi/	Tâm lý học
-recommendation	(n)	/ˌrɛkəmɛnˈdeɪʃən/	Khuyến nghị
-response	(n)	/rɪsˈpɒns/	Câu trả lời
-selection	(n)	/sɪˈlɛkʃən/	Sự lựa chọn
-storage	(n)	/ˈstɔːrɪʤ/	Lưu trữ
-version	(n)	/ˈvɜːʃən/	Phiên bản
-alcohol	(n)	/ˈælkəhɒl/	Rượu
-argument	(n)	/ˈɑːgjʊmənt/	Đối số
-complaint	(n)	/kəmˈpleɪnt/	Lời phàn nàn
-contract	(n)	/ˈkɒntrækt/	Hợp đồng
-emphasis	(n)	/ˈɛmfəsɪs/	Sự nhấn mạnh
-highway	(n)	/ˈhaɪweɪ/	Xa lộ
-loss	(n)	/lɒs/	Sự mất
-membership	(n)	/ˈmɛmbəʃɪp/	Thành viên
-possession	(n)	/pəˈzɛʃən/	Sở hữu
-preparation	(n)	/ˌprɛpəˈreɪʃən/	Sự chuẩn bị
-steak	(n)	/steɪk/	Miếng bò hầm
-union	(n)	/ˈjuːnjən/	Liên hiệp
-agreement	(n)	/əˈgriːmənt/	Sự đồng ý
-cancer	(n)	/ˈkænsə/	Ung thư
-currency	(n)	/ˈkʌrənsi/	Tiền tệ
-employment	(n)	/ɪmˈplɔɪmənt/	Việc làm
-engineering	(n)	/ˌɛnʤɪˈnɪərɪŋ/	Kỹ thuật
-entry	(n)	/ˈɛntri/	Lối vào
-interaction	(n)	/ˌɪntərˈækʃən/	Tương tác
-limit	(n)	/ˈlɪmɪt/	Giới hạn
-mixture	(n)	/ˈmɪksʧə/	Hỗn hợp
-preference	(n)	/ˈprɛfərəns/	Sự ưa thích
-region	(n)	/ˈriːʤən/	Vùng
-republic	(n)	/rɪˈpʌblɪk/	Nước cộng hòa
-seat	(n)	/siːt/	Ghế
-tradition	(n)	/trəˈdɪʃən/	Truyền thống
-virus	(n)	/ˈvaɪərəs/	Virus
-actor	(n)	/ˈæktə/	Diễn viên
-classroom	(n)	/ˈklɑːsrʊm/	Lớp học
-delivery	(n)	/dɪˈlɪvəri/	Giao hàng
-device	(n)	/dɪˈvaɪs/	Thiết bị
-difficulty	(n)	/ˈdɪfɪkəlti/	Khó khăn
-drama	(n)	/ˈdrɑːmə/	Kịch
-election	(n)	/ɪˈlɛkʃən/	Sựu bầu cử
-engine	(n)	/ˈɛnʤɪn/	Động cơ
-football	(n)	/ˈfʊtbɔːl/	Bóng đá
-guidance	(n)	/ˈgaɪdəns/	Hướng dẫn
-hotel	(n)	/həʊˈtɛl/	Khách sạn
-match	(n)	/mæʧ/	Trận đấu
-owner	(n)	/ˈəʊnə/	Chủ nhân
-priority	(n)	/praɪˈɒrɪti/	Quyền ưu tiên
-protection	(n)	/prəˈtɛkʃən/	Sự bảo vệ
-suggestion	(n)	/səˈʤɛsʧən/	Gợi ý
-tension	(n)	/ˈtɛnʃən/	Sức ép
-variation	(n)	/ˌveərɪˈeɪʃən/	Sự biến đổi
-anxiety	(n)	/æŋˈzaɪəti/	Lo ngại
-atmosphere	(n)	/ˈætməsfɪə/	Không khí
-awareness	(n)	/əˈweənəs/	Nhận thức
-bread	(n)	/brɛd/	Bánh mì
-climate	(n)	/ˈklaɪmɪt/	Khí hậu
-comparison	(n)	/kəmˈpærɪsn/	Sự so sánh
-confusion	(n)	/kənˈfjuːʒən/	Nhầm lẫn
-construction	(n)	/kənˈstrʌkʃən/	Xây dựng
-elevator	(n)	/ˈɛlɪveɪtə/	Thang máy
-emotion	(n)	/ɪˈməʊʃən/	Xúc động
-employee	(n)	/ˌɛmplɔɪˈiː/	Công nhân
-employer	(n)	/ɪmˈplɔɪə/	Sử dụng lao động
-guest	(n)	/gɛst/	Khách
-height	(n)	/haɪt/	Chiều cao
-leadership	(n)	/ˈliːdəʃɪp/	Lãnh đạo
-mall	(n)	/mɔːl/	Trung tâm mua sắm
-manager	(n)	/ˈmænɪʤə/	Người quản lý
-operation	(n)	/ˌɒpəˈreɪʃən/	Hoạt động
-recording	(n)	/rɪˈkɔːdɪŋ/	Ghi âm
-respect	(n)	/rɪsˈpɛkt/	Tôn trọng
-sample	(n)	/ˈsɑːmpl/	Mẫu
-transportation	(n)	/ˌtrænspɔːˈteɪʃən/	Giao thông vận tải
-boring	(n)	/ˈbɔːrɪŋ/	Chán nản
-charity	(n)	/ˈʧærɪti/	Bố thí
-cousin	(n)	/ˈkʌzn/	Anh em họ
-disaster	(n)	/dɪˈzɑːstə/	Thảm họa
-editor	(n)	/ˈɛdɪtə/	Biên tập viên
-efficiency	(n)	/ɪˈfɪʃənsi/	Hiệu quả
-excitement	(n)	/ɪkˈsaɪtmənt/	Phấn khích
-extent	(n)	/ɪksˈtɛnt/	Mức độ
-feedback	(n)	/ˈfiːdbæk/	Thông tin phản hồi
-guitar	(n)	/gɪˈtɑː/	Đàn guitar
-homework	(n)	/ˈhəʊmˌwɜːk/	Bài tập về nhà
-leader	(n)	/ˈliːdə/	Lãnh đạo
-mom	(n)	/mɒm/	Mẹ
-outcome	(n)	/ˈaʊtkʌm/	Kết quả
-permission	(n)	/pəˈmɪʃən/	Sự cho phép
-presentation	(n)	/ˌprɛzɛnˈteɪʃən/	Trình bày
-promotion	(n)	/prəˈməʊʃən/	Khuyến mãi
-reflection	(n)	/rɪˈflɛkʃən/	Sự phản xạ
-refrigerator	(n)	/rɪˈfrɪʤəreɪtə/	Tủ lạnh
-resolution	(n)	/ˌrɛzəˈluːʃən/	Độ phân giải
-revenue	(n)	/ˈrɛvɪnjuː/	Lợi tức
-session	(n)	/ˈsɛʃən/	Buổi họp
-singer	(n)	/ˈsɪŋə/	Ca sĩ
-tennis	(n)	/ˈtɛnɪs/	Quần vợt
-basket	(n)	/ˈbɑːskɪt/	Cái giỏ
-bonus	(n)	/ˈbəʊnəs/	Tiền thưởng
-cabinet	(n)	/ˈkæbɪnɪt/	Buồng
-childhood	(n)	/ˈʧaɪldhʊd/	Thời thơ ấu
-church	(n)	/ʧɜːʧ/	Nhà thờ
-clothes	(n)	/kləʊðz/	Quần áo
-coffee	(n)	/ˈkɒfi/	Cà phê
-dinner	(n)	/ˈdɪnə/	Bữa tối
-drawing	(n)	/ˈdrɔːɪŋ/	Bản vẽ
-hair	(n)	/heə/	Tóc
-hearing	(n)	/ˈhɪərɪŋ/	Thính giác
-initiative	(n)	/ɪˈnɪʃɪətɪv/	Sáng kiến
-judgment	(n)	/ˈʤʌʤmənt/	Án
-lab	(n)	/læb/	Phòng thí nghiệm
-measurement	(n)	/ˈmɛʒəmənt/	Sự đo lường
-mode	(n)	/məʊd/	Chế độ
-mud	(n)	/mʌd/	Bùn
-orange	(n)	/ˈɒrɪnʤ/	Trái cam
-poetry	(n)	/ˈpəʊɪtri/	Thơ phú
-police	(n)	/pəˈliːs/	Cảnh sát
-possibility	(n)	/ˌpɒsəˈbɪlɪti/	Khả năng
-procedure	(n)	/prəˈsiːʤə/	Phương pháp
-queen	(n)	/kwiːn/	Nữ hoàng
-ratio	(n)	/ˈreɪʃɪəʊ/	Tỉ lệ
-relation	(n)	/rɪˈleɪʃən/	Quan hệ
-restaurant	(n)	/ˈrɛstrɒnt/	Nhà hàng
-satisfaction	(n)	/ˌsætɪsˈfækʃən/	Sự hài lòng
-sector	(n)	/ˈsɛktə/	Khu vực
-signature	(n)	/ˈsɪgnɪʧə/	Chữ ký
-significance	(n)	/sɪgˈnɪfɪkəns/	Ý nghĩa
-song	(n)	/sɒŋ/	Bài hát
-tooth	(v,n)	/tuːθ/	Răng, ăn khớp nhau
-town	(n)	/taʊn/	Thành phố
-vehicle	(n)	/ˈviːɪkl/	Xe cộ
-volume	(n)	/ˈvɒljʊm/	Thể tích
-wife	(n)	/waɪf/	Vợ
 accident	(n)	/ˈæksɪdənt/	Tai nạn
-airport	(n)	/ˈeəpɔːt/	Sân bay
-appointment	(n)	/əˈpɔɪntmənt/	Cuộc hẹn
-arrival	(adj,n)	/əˈraɪvəl/	Đi đến nơi, sự đến
-assumption	(n)	/əˈsʌmpʃ(ə)n/	Giả định
-baseball	(n)	/ˈbeɪsbɔːl/	Bóng chày
-chapter	(n)	/ˈʧæptə/	Chương
-committee	(n)	/kəˈmɪti/	Ủy ban
-conversation	(n)	/ˌkɒnvəˈseɪʃən/	Đàm thoại
-database	(n)	/ˈdeɪtəˌbeɪs/	Cơ sở dữ liệu
-enthusiasm	(n)	/ɪnˈθjuːzɪæzm/	Hăng hái
-error	(n)	/ˈɛrə/	Lỗi
-explanation	(n)	/ˌɛkspləˈneɪʃən/	Giải thích
-farmer	(n)	/ˈfɑːmə/	Nông dân
-gate	(n)	/geɪt/	Cửa
-girl	(n)	/gɜːl/	Cô gái
-hall	(n)	/hɔːl/	Đại sảnh
-historian	(n)	/hɪsˈtɔːrɪən/	Sử gia
-hospital	(n)	/ˈhɒspɪtl/	Bệnh viện
-injury	(n)	/ˈɪnʤəri/	Vết thương
-instruction	(n)	/ɪnˈstrʌkʃən/	Hướng dẫn
-maintenance	(n)	/ˈmeɪntənəns/	Bảo trì
-manufacturer	(n)	/ˌmænjʊˈfækʧərə/	Nhà chế tạo
-meal	(n)	/miːl/	Bữa ăn
-perception	(n)	/pəˈsɛpʃən/	Sự nhận thức
-pie	(n)	/paɪ/	Bánh
-poem	(n)	/ˈpəʊɪm/	Bài thơ
-presence	(n)	/ˈprɛzns/	Sự hiện diện
-proposal	(n)	/prəˈpəʊzəl/	Đề nghị
-reception	(n)	/rɪˈsɛpʃən/	Tiếp nhận
-replacement	(n)	/rɪˈpleɪsmənt/	Sự thay thế
-revolution	(n)	/ˌrɛvəˈluːʃən/	Cuộc cách mạng
-river	(n)	/ˈrɪvə/	Sông
-son	(n)	/sʌn/	Con trai
-speech	(n)	/spiːʧ/	Lời nói
-tea	(n)	/tiː/	Trà
-village	(n)	/ˈvɪlɪʤ/	Làng
-warning	(n)	/ˈwɔːnɪŋ/	Cảnh báo
-winner	(n)	/ˈwɪnə/	Người chiến thắng
-worker	(n)	/ˈwɜːkə/	Công nhân
-writer	(n)	/ˈraɪtə/	Nhà văn
-assistance	(n)	/əˈsɪstəns/	Sự giúp trợ
-breath	(n)	/brɛθ/	Hơi thở
-buyer	(n)	/ˈbaɪə/	Người mua
-chest	(n)	/ʧɛst/	Ngực
-chocolate	(n)	/ˈʧɒkəlɪt/	Sôcôla
-conclusion	(n)	/kənˈkluːʒən/	Phần kết luận
-contribution	(n)	/ˌkɒntrɪˈbjuːʃən/	Sự đóng góp
-cookie	(n)	/ˈkʊki/	Cookie
-courage	(n)	/ˈkʌrɪʤ/	Lòng can đảm
-dad	(n)	/dæd/	Cha
-desk	(n)	/dɛsk/	Bàn giấy
-drawer	(n)	/ˈdrɔːə/	Ngăn kéo
-establishment	(n)	/ɪsˈtæblɪʃmənt/	Thành lập
-examination	(n)	/ɪgˌzæmɪˈneɪʃən/	Kiểm tra
-garbage	(n)	/ˈgɑːbɪʤ/	Đống rác
-grocery	(n)	/ˈgrəʊsəri/	Tạp hóa
-honey	(adj,n)	/ˈhʌni/	Mật ong, đường mật, êm dịu
-impression	(n)	/ɪmˈprɛʃən/	Ấn tượng
-improvement	(n)	/ɪmˈpruːvmənt/	Sự cải thiện
-independence	(n)	/ˌɪndɪˈpɛndəns/	Độc lập
-insect	(n)	/ˈɪnsɛkt/	Côn trùng
-inspection	(n)	/ɪnˈspɛkʃən/	Sự kiểm tra
-inspector	(n)	/ɪnˈspɛktə/	Viên thanh tra
-king	(n)	/kɪŋ/	Vua
-ladder	(n)	/ˈlædə/	Thang
-menu	(n)	/ˈmɛnjuː/	Thực đơn
-penalty	(n)	/ˈpɛnlti/	Hình phạt
-piano	(n)	/pɪˈænəʊ/	Dương cầm
-potato	(n)	/pəˈteɪtəʊ/	Khoai tây
-profession	(n)	/prəˈfɛʃən/	Nghề nghiệp
-professor	(n)	/prəˈfɛsə/	Giáo sư
-quantity	(n)	/ˈkwɒntɪti/	Số lượng
-reaction	(n)	/ri(ː)ˈækʃən/	Sự phản ứng
-requirement	(n)	/rɪˈkwaɪəmənt/	Yêu cầu
-salad	(n)	/ˈsæləd/	Xà lách
-sister	(n)	/ˈsɪstə/	Chị
-supermarket	(n)	/ˈsjuːpəˌmɑːkɪt/	Siêu thị
-tongue	(n)	/tʌŋ/	Lưỡi
-weakness	(n)	/ˈwiːknɪs/	Yếu đuối
-wedding	(n)	/ˈwɛdɪŋ/	Kết hôn
+activity	(n)	/ækˈtɪvɪti/	Hoạt động
+actor	(n)	/ˈæktə/	Diễn viên
+ad	(n)	/æd/	Quảng cáo
+addition	(n)	/əˈdɪʃ(ə)n/	Thêm vào
+administration	(n)	/ədˌmɪnɪsˈtreɪʃ(ə)n/	Quyền quản trị
+advertising	(n)	/ˈædvətaɪzɪŋ/	Quảng cáo
+advice	(n)	/ədˈvaɪs/	Lời khuyên
 affair	(n)	/əˈfeə/	Việc
+agency	(n)	/ˈeɪʤənsi/	Đại lý
+agreement	(n)	/əˈgriːmənt/	Sự đồng ý
+airport	(n)	/ˈeəpɔːt/	Sân bay
+alcohol	(n)	/ˈælkəhɒl/	Rượu
 ambition	(n)	/æmˈbɪʃ(ə)n/	Tham vọng
+analysis	(n)	/əˈnæləsɪs/	Nghiên cứu
 analyst	(n)	/ˈænəlɪst/	Người phân tích
+anxiety	(n)	/æŋˈzaɪəti/	Lo ngại
+apartment	(n)	/əˈpɑːtmənt/	Căn hộ
+appearance	(n)	/əˈpɪərəns/	Xuất hiện
 apple	(n)	/ˈæpl/	Táo
+application	(n)	/ˌæplɪˈkeɪʃ(ə)n/	Ứng dụng
+appointment	(n)	/əˈpɔɪntmənt/	Cuộc hẹn
+area	(n)	/ˈeərɪə/	Khu vực
+argument	(n)	/ˈɑːgjʊmənt/	Đối số
+army	(n)	/ˈɑːmi/	Quân đội
+arrival	(adj,	n)	/əˈraɪvəl/	Đi đến nơi, sự đến
+art	(n)	/ɑːt/	Nghệ thuật
+article	(n)	/ˈɑːtɪkl/	Điều khoản
+aspect	(n)	/ˈæspɛkt/	Diện mạo
 assignment	(n)	/əˈsaɪnmənt/	Phân công
-assistant	(adj,n)	/əˈsɪstənt/	Phụ tá, giúp đỡ
+assistance	(n)	/əˈsɪstəns/	Sự giúp trợ
+assistant	(adj,	n)	/əˈsɪstənt/	Phụ tá, giúp đỡ
+association	(n)	/əˌsəʊsɪˈeɪʃ(ə)n/	Sự kết hợp
+assumption	(n)	/əˈsʌmpʃ(ə)n/	Giả định
+atmosphere	(n)	/ˈætməsfɪə/	Không khí
+attention	(n)	/əˈtɛnʃ(ə)n/	Chú ý
+attitude	(n)	/ˈætɪtjuːd/	Thái độ
+audience	(n)	/ˈɔːdjəns/	Khán giả
+awareness	(n)	/əˈweənəs/	Nhận thức
+baseball	(n)	/ˈbeɪsbɔːl/	Bóng chày
+basis	(n)	/ˈbeɪsɪs/	Căn cứ
+basket	(n)	/ˈbɑːskɪt/	Cái giỏ
 bathroom	(n)	/ˈbɑːθru(ː)m/	Phòng tắm
 bedroom	(n)	/ˈbɛdru(ː)m/	Phòng ngủ
 beer	(n)	/bɪə/	Bia
+bird	(n)	/bɜːd/	Chim
 birthday	(n)	/ˈbɜːθdeɪ/	Ngày sinh nhật
+blood	(n)	/blʌd/	Máu
+bonus	(n)	/ˈbəʊnəs/	Tiền thưởng
+boring	(n)	/ˈbɔːrɪŋ/	Chán nản
+boyfriend	(n)	/ˈbɔɪˌfrɛnd/	Bạn trai
+bread	(n)	/brɛd/	Bánh mì
+breath	(n)	/brɛθ/	Hơi thở
+business	(n)	/ˈbɪznɪs/	Kinh doanh
+buyer	(n)	/ˈbaɪə/	Người mua
+cabinet	(n)	/ˈkæbɪnɪt/	Buồng
+camera	(n)	/ˈkæmərə/	Máy chụp hình
+cancer	(n)	/ˈkænsə/	Ung thư
+category	(n)	/ˈkætɪgəri/	Thể loại
 celebration	(n)	/ˌsɛlɪˈbreɪʃən/	Lễ kỷ niệm
+cell	(n)	/sɛl/	Tế bào
 championship	(n)	/ˈʧæmpjənʃɪp/	Chức vô địch
-cheek	(v,n)	/ʧiːk/	Gò má, ngạo mạn
+chapter	(n)	/ˈʧæptə/	Chương
+charity	(n)	/ˈʧærɪti/	Bố thí
+cheek	(v,	n)	/ʧiːk/	Gò má, ngạo mạn
+chemistry	(n)	/ˈkɛmɪstri/	Hóa học
+chest	(n)	/ʧɛst/	Ngực
+child	(n)	/ʧaɪld/	Trẻ em
+childhood	(n)	/ˈʧaɪldhʊd/	Thời thơ ấu
+chocolate	(n)	/ˈʧɒkəlɪt/	Sôcôla
+church	(n)	/ʧɜːʧ/	Nhà thờ
+cigarette	(n)	/ˌsɪgəˈrɛt/	Thuốc lá
+city	(n)	/ˈsɪti/	Thành phố
+classroom	(n)	/ˈklɑːsrʊm/	Lớp học
 client	(n)	/ˈklaɪənt/	Khách hàng
+climate	(n)	/ˈklaɪmɪt/	Khí hậu
+clothes	(n)	/kləʊðz/	Quần áo
+coffee	(n)	/ˈkɒfi/	Cà phê
+collection	(n)	/kəˈlɛkʃən/	Bộ sưu tập
+college	(n)	/ˈkɒlɪʤ/	Trường đại học
+combination	(n)	/ˌkɒmbɪˈneɪʃən/	Phối hợp
+committee	(n)	/kəˈmɪti/	Ủy ban
+communication	(n)	/kəˌmjuːnɪˈkeɪʃən/	Liên lạc
+community	(n)	/kəˈmjuːnɪti/	Cộng đồng
+comparison	(n)	/kəmˈpærɪsn/	Sự so sánh
+competition	(n)	/ˌkɒmpɪˈtɪʃən/	Cuộc thi
+complaint	(n)	/kəmˈpleɪnt/	Lời phàn nàn
+computer	(n)	/kəmˈpjuːtə/	Máy tính
+concept	(n)	/ˈkɒnsɛpt/	Khái niệm
+conclusion	(n)	/kənˈkluːʒən/	Phần kết luận
+confusion	(n)	/kənˈfjuːʒən/	Nhầm lẫn
+connection	(n)	/kəˈnɛkʃən/	Liên quan
 consequence	(n)	/ˈkɒnsɪkwəns/	Kết quả
+construction	(n)	/kənˈstrʌkʃən/	Xây dựng
+context	(n)	/ˈkɒntɛkst/	Bối cảnh
+contract	(n)	/ˈkɒntrækt/	Hợp đồng
+contribution	(n)	/ˌkɒntrɪˈbjuːʃən/	Sự đóng góp
+control	(v)	/kənˈtrəʊl/	Điều khiển
+conversation	(n)	/ˌkɒnvəˈseɪʃən/	Đàm thoại
+cookie	(n)	/ˈkʊki/	Cookie
+country	(n)	/ˈkʌntri/	Nước
+county	(n)	/ˈkaʊnti/	Quận
+courage	(n)	/ˈkʌrɪʤ/	Lòng can đảm
+cousin	(n)	/ˈkʌzn/	Anh em họ
+criticism	(n)	/ˈkrɪtɪsɪzm/	Sự chỉ trích
+currency	(n)	/ˈkʌrənsi/	Tiền tệ
+customer	(n)	/ˈkʌstəmə/	Khách hàng
+dad	(n)	/dæd/	Cha
+data	(n)	/ˈdeɪtə/	Dữ liệu
+database	(n)	/ˈdeɪtəˌbeɪs/	Cơ sở dữ liệu
+dealer	(n)	/ˈdiːlə/	Người chia bài
+death	(n)	/dɛθ/	Sự chết
+debate	(n)	/dɪˈbeɪt/	Tranh luận
+debt	(n)	/dɛt/	Nợ nần
+decision	(n)	/dɪˈsɪʒən/	Phán quyết
+definition	(n)	/ˌdɛfɪˈnɪʃən/	Định nghĩa
+delivery	(n)	/dɪˈlɪvəri/	Giao hàng
+department	(n)	/dɪˈpɑːtmənt/	Bộ
 departure	(n)	/dɪˈpɑːʧə/	Khởi hành
+depression	(n)	/dɪˈprɛʃən/	Phiền muộn
+depth	(n)	/dɛpθ/	Chiều sâu
+description	(n)	/dɪsˈkrɪpʃən/	Miêu tả
+desk	(n)	/dɛsk/	Bàn giấy
+development	(n)	/dɪˈvɛləpmənt/	Phát triển
+device	(n)	/dɪˈvaɪs/	Thiết bị
 diamond	(n)	/ˈdaɪəmənd/	Kim cương
+difference	(n)	/ˈdɪfrəns/	Khác nhau
+difficulty	(n)	/ˈdɪfɪkəlti/	Khó khăn
+dinner	(n)	/ˈdɪnə/	Bữa tối
+direction	(n)	/dɪˈrɛkʃən/	Phương hướng
+director	(n)	/dɪˈrɛktə/	Giám đốc
 dirt	(n)	/dɜːt/	Bụi
+disaster	(n)	/dɪˈzɑːstə/	Thảm họa
+discussion	(n)	/dɪsˈkʌʃən/	Thảo luận
+disease	(n)	/dɪˈziːz/	Căn bệnh
+disk	(n)	/dɪsk/	Đĩa
+distribution	(n)	/ˌdɪstrɪˈbjuːʃən/	Phân phát
+drama	(n)	/ˈdrɑːmə/	Kịch
+drawer	(n)	/ˈdrɔːə/	Ngăn kéo
+drawing	(n)	/ˈdrɔːɪŋ/	Bản vẽ
+driver	(n)	/ˈdraɪvə/	Người lái xe
 ear	(n)	/ɪə/	Tai
+economics	(n)	/ˌiːkəˈnɒmɪks/	Kinh tế học
+editor	(n)	/ˈɛdɪtə/	Biên tập viên
+education	(n)	/ˌɛdju(ː)ˈkeɪʃən/	Sự giáo dục
+efficiency	(n)	/ɪˈfɪʃənsi/	Hiệu quả
+effort	(n)	/ˈɛfət/	Cố gắng
+election	(n)	/ɪˈlɛkʃən/	Sựu bầu cử
+elevator	(n)	/ˈɛlɪveɪtə/	Thang máy
+emotion	(n)	/ɪˈməʊʃən/	Xúc động
+emphasis	(n)	/ˈɛmfəsɪs/	Sự nhấn mạnh
+employee	(n)	/ˌɛmplɔɪˈiː/	Công nhân
+employer	(n)	/ɪmˈplɔɪə/	Sử dụng lao động
+employment	(n)	/ɪmˈplɔɪmənt/	Việc làm
+energy	(n)	/ˈɛnəʤi/	Năng lượng
+engine	(n)	/ˈɛnʤɪn/	Động cơ
+engineering	(n)	/ˌɛnʤɪˈnɪərɪŋ/	Kỹ thuật
+entertainment	(n)	/ˌɛntəˈteɪnmənt/	Giải trí
+enthusiasm	(n)	/ɪnˈθjuːzɪæzm/	Hăng hái
+entry	(n)	/ˈɛntri/	Lối vào
+environment	(n)	/ɪnˈvaɪərənmənt/	Môi trường
+equipment	(n)	/ɪˈkwɪpmənt/	Thiết bị
+error	(n)	/ˈɛrə/	Lỗi
+establishment	(n)	/ɪsˈtæblɪʃmənt/	Thành lập
+estate	(n)	/ɪsˈteɪt/	Tài sản
+event	(n)	/ɪˈvɛnt/	Biến cố
+exam	(n)	/ɪgˈzæm/	Thi
+examination	(n)	/ɪgˌzæmɪˈneɪʃən/	Kiểm tra
+example	(n)	/ɪgˈzɑːmpl/	Thí dụ
+excitement	(n)	/ɪkˈsaɪtmənt/	Phấn khích
+explanation	(n)	/ˌɛkspləˈneɪʃən/	Giải thích
+expression	(n)	/ɪksˈprɛʃən/	Biểu hiện
+extent	(n)	/ɪksˈtɛnt/	Mức độ
+fact	(n)	/fækt/	Việc
+failure	(n)	/ˈfeɪljə/	Thất bại
+family	(n)	/ˈfæmɪli/	Gia đình
+farmer	(n)	/ˈfɑːmə/	Nông dân
+feedback	(n)	/ˈfiːdbæk/	Thông tin phản hồi
+film	(v,	n)	/fɪlm/	Phim ảnh, quay phim
+finding	(n)	/ˈfaɪndɪŋ/	Phát hiện
+fishing	(n)	/ˈfɪʃɪŋ/	Câu cá
+flight	(n)	/flaɪt/	Chuyến bay
+food	(n)	/fuːd/	Thức ăn
+football	(n)	/ˈfʊtbɔːl/	Bóng đá
+form	(n)	/fɔːm/	Hình thức
 fortune	(n)	/ˈfɔːʧən/	Vận may
+foundation	(n)	/faʊnˈdeɪʃən/	Nền tảng
+freedom	(n)	/ˈfriːdəm/	Sự tự do
 friendship	(n)	/ˈfrɛndʃɪp/	Tình bạn
-funeral	(adj,n)	/ˈfjuːnərəl/	Đám ma, tang lễ
+funeral	(adj,	n)	/ˈfjuːnərəl/	Đám ma, tang lễ
+game	(n)	/geɪm/	Trò chơi
+garbage	(n)	/ˈgɑːbɪʤ/	Đống rác
+gate	(n)	/geɪt/	Cửa
 gene	(n)	/ʤiːn/	Gen
+girl	(n)	/gɜːl/	Cô gái
 girlfriend	(n)	/ˈgɜːlˌfrɛnd/	Bạn gái
+goal	(n)	/gəʊl/	Mục tiêu
+government	(n)	/ˈgʌvnmənt/	Chính phủ
+grandmother	(n)	/ˈgrænˌmʌðə/	Bà ngoại
+grocery	(n)	/ˈgrəʊsəri/	Tạp hóa
+growth	(n)	/grəʊθ/	Sự tăng trưởng
+guest	(n)	/gɛst/	Khách
+guidance	(n)	/ˈgaɪdəns/	Hướng dẫn
+guitar	(n)	/gɪˈtɑː/	Đàn guitar
+hair	(n)	/heə/	Tóc
+hall	(n)	/hɔːl/	Đại sảnh
 hat	(n)	/hæt/	Mũ
+health	(n)	/hɛlθ/	Sức khỏe
+hearing	(n)	/ˈhɪərɪŋ/	Thính giác
+heart	(n)	/hɑːt/	Tim
+height	(n)	/haɪt/	Chiều cao
+highway	(n)	/ˈhaɪweɪ/	Xa lộ
+historian	(n)	/hɪsˈtɔːrɪən/	Sử gia
+history	(n)	/ˈhɪstəri/	Lịch sử
+homework	(n)	/ˈhəʊmˌwɜːk/	Bài tập về nhà
+honey	(adj,	n)	/ˈhʌni/	Mật ong, đường mật, êm dịu
+hospital	(n)	/ˈhɒspɪtl/	Bệnh viện
+hotel	(n)	/həʊˈtɛl/	Khách sạn
+housing	(n)	/ˈhaʊzɪŋ/	Nhà ở
+idea	(n)	/aɪˈdɪə/	Ý kiến
+imagination	(n)	/ɪˌmæʤɪˈneɪʃən/	Sự tưởng tượng
+importance	(n)	/ɪmˈpɔːtəns/	Tầm quan trọng
+impression	(n)	/ɪmˈprɛʃən/	Ấn tượng
+improvement	(n)	/ɪmˈpruːvmənt/	Sự cải thiện
+income	(n)	/ˈɪnkʌm/	Lợi tức
+independence	(n)	/ˌɪndɪˈpɛndəns/	Độc lập
 indication	(n)	/ˌɪndɪˈkeɪʃən/	Dấu hiệu
+industry	(n)	/ˈɪndəstri/	Ngành công nghiệp
+inflation	(n)	/ɪnˈfleɪʃən/	Sự lạm phát
+information	(n)	/ˌɪnfəˈmeɪʃən/	Thông tin
+initiative	(n)	/ɪˈnɪʃɪətɪv/	Sáng kiến
+injury	(n)	/ˈɪnʤəri/	Vết thương
+insect	(n)	/ˈɪnsɛkt/	Côn trùng
+inspection	(n)	/ɪnˈspɛkʃən/	Sự kiểm tra
+inspector	(n)	/ɪnˈspɛktə/	Viên thanh tra
+instance	(n)	/ˈɪnstəns/	Trường hợp
+instruction	(n)	/ɪnˈstrʌkʃən/	Hướng dẫn
+insurance	(n)	/ɪnˈʃʊərəns/	Bảo hiểm
 intention	(n)	/ɪnˈtɛnʃən/	Mục đích
+interaction	(n)	/ˌɪntərˈækʃən/	Tương tác
+internet	(n)	/ˈɪntəˌnɛt/	Internet
+introduction	(n)	/ˌɪntrəˈdʌkʃən/	Sự giới thiệu
+investment	(n)	/ɪnˈvɛstmənt/	Đầu tư
+judgment	(n)	/ˈʤʌʤmənt/	Án
+king	(n)	/kɪŋ/	Vua
+knowledge	(n)	/ˈnɒlɪʤ/	Kiến thức
+lab	(n)	/læb/	Phòng thí nghiệm
+ladder	(n)	/ˈlædə/	Thang
 lady	(n)	/ˈleɪdi/	Phụ nữ
-midnight	(adj,n)	/ˈmɪdnaɪt/	Nữa đêm, giữa khuya
+lake	(n)	/leɪk/	Hồ
+language	(n)	/ˈlæŋgwɪʤ/	Ngôn ngữ
+law	(n)	/lɔː/	Pháp luật
+leader	(n)	/ˈliːdə/	Lãnh đạo
+leadership	(n)	/ˈliːdəʃɪp/	Lãnh đạo
+length	(n)	/lɛŋθ/	Chiều dài
+library	(n)	/ˈlaɪbrəri/	Thư viện
+life	(n)	/laɪf/	Đời sống
+limit	(n)	/ˈlɪmɪt/	Giới hạn
+literature	(n)	/ˈlɪtərɪʧə/	Văn chương
+location	(n)	/ləʊˈkeɪʃən/	Vị trí
+loss	(n)	/lɒs/	Sự mất
+love	(n)	/lʌv/	Tình Yêu
+magazine	(n)	/ˌmægəˈziːn/	Tạp chí
+maintenance	(n)	/ˈmeɪntənəns/	Bảo trì
+mall	(n)	/mɔːl/	Trung tâm mua sắm
+management	(n)	/ˈmænɪʤmənt/	Quản lý
+manager	(n)	/ˈmænɪʤə/	Người quản lý
+manufacturer	(n)	/ˌmænjʊˈfækʧərə/	Nhà chế tạo
+map	(n)	/mæp/	Bản đồ
+marketing	(n)	/ˈmɑːkɪtɪŋ/	Thị trường
+marriage	(n)	/ˈmærɪʤ/	Hôn nhân
+match	(n)	/mæʧ/	Trận đấu
+math	(n)	/mæθ/	Toán học
+meal	(n)	/miːl/	Bữa ăn
+meaning	(n)	/ˈmiːnɪŋ/	Nghĩa
+measurement	(n)	/ˈmɛʒəmənt/	Sự đo lường
+meat	(n)	/miːt/	Thịt
+media	(n)	/ˈmɛdɪə/	Phương tiện truyền thông
+medicine	(n)	/ˈmɛdsɪn/	Y học
+member	(n)	/ˈmɛmbə/	Thành viên
+membership	(n)	/ˈmɛmbəʃɪp/	Thành viên
+memory	(n)	/ˈmɛməri/	Trí nhớ
+menu	(n)	/ˈmɛnjuː/	Thực đơn
+message	(n)	/ˈmɛsɪʤ/	Thông điệp
+method	(n)	/ˈmɛθəd/	Phương pháp
+midnight	(adj,	n)	/ˈmɪdnaɪt/	Nữa đêm, giữa khuya
+mixture	(n)	/ˈmɪksʧə/	Hỗn hợp
+mode	(n)	/məʊd/	Chế độ
+mom	(n)	/mɒm/	Mẹ
+moment	(n)	/ˈməʊmənt/	Chốc lát
+money	(n)	/ˈmʌni/	Tiền
+month	(n)	/mʌnθ/	Tháng
+mood	(n)	/muːd/	Khí sắc
+movie	(n)	/ˈmuːvi/	Phim
+mud	(n)	/mʌd/	Bùn
+music	(n)	/ˈmjuːzɪk/	Âm nhạc
+nation	(n)	/ˈneɪʃən/	Quốc gia
+nature	(n)	/ˈneɪʧə/	Bản chất
 negotiation	(n)	/nɪˌgəʊʃɪˈeɪʃən/	Đàm phán
+news	(n)	/njuːz/	Tin tức
+newspaper	(n)	/ˈnjuːzˌpeɪpə/	Báo
+night	(n)	/naɪt/	Đêm
 obligation	(n)	/ˌɒblɪˈgeɪʃən/	Nghĩa vụ
+office	(n)	/ˈɒfɪs/	Văn phòng
+operation	(n)	/ˌɒpəˈreɪʃən/	Hoạt động
+opinion	(n)	/əˈpɪnjən/	Ý kiến
+opportunity	(n)	/ˌɒpəˈtjuːnɪti/	Cơ hội
+orange	(n)	/ˈɒrɪnʤ/	Trái cam
+organization	(n)	/ˌɔːgənaɪˈzeɪʃən/	Cơ quan
+outcome	(n)	/ˈaʊtkʌm/	Kết quả
+oven	(n)	/ˈʌvn/	Lò nướng
+owner	(n)	/ˈəʊnə/	Chủ nhân
+painting	(n)	/ˈpeɪntɪŋ/	Bức tranh
+paper	(n)	/ˈpeɪpə/	Giấy
 passenger	(n)	/ˈpæsɪnʤə/	Hành khách
+passion	(n)	/ˈpæʃən/	Tình yêu
+patience	(n)	/ˈpeɪʃəns/	Kiên nhẫn
+payment	(n)	/ˈpeɪmənt/	Thanh toán
+penalty	(n)	/ˈpɛnlti/	Hình phạt
+people	(n)	/ˈpiːpl/	Người
+percentage	(n)	/pəˈsɛntɪʤ/	Tỷ lệ phần trăm
+perception	(n)	/pəˈsɛpʃən/	Sự nhận thức
+performance	(n)	/pəˈfɔːməns/	Hiệu suất
+permission	(n)	/pəˈmɪʃən/	Sự cho phép
+person	(n)	/ˈpɜːsn/	Người
+personality	(n)	/ˌpɜːsəˈnælɪti/	Nhân cách
+perspective	(n)	/pəˈspɛktɪv/	Quan điểm
+philosophy	(n)	/fɪˈlɒsəfi/	Triết học
+phone	(n)	/fəʊn/	Điện thoại
+photo	(n)	/ˈfəʊtəʊ/	Ảnh
+physics	(n)	/ˈfɪzɪks/	Vật lý
+piano	(n)	/pɪˈænəʊ/	Dương cầm
+pie	(n)	/paɪ/	Bánh
 pizza	(n)	/ˈpiːtsə/	Bánh pizza
 platform	(n)	/ˈplætfɔːm/	Nền tảng
+player	(n)	/ˈpleɪə/	Người chơi
+poem	(n)	/ˈpəʊɪm/	Bài thơ
 poet	(n)	/ˈpəʊɪt/	Thi sĩ
+poetry	(n)	/ˈpəʊɪtri/	Thơ phú
+police	(n)	/pəˈliːs/	Cảnh sát
+policy	(n)	/ˈpɒlɪsi/	Chính sách
+politics	(n)	/ˈpɒlɪtɪks/	Chính trị
 pollution	(n)	/pəˈluːʃən/	Ô nhiễm
+population	(n)	/ˌpɒpjʊˈleɪʃən/	Dân số
+possession	(n)	/pəˈzɛʃən/	Sở hữu
+possibility	(n)	/ˌpɒsəˈbɪlɪti/	Khả năng
+potato	(n)	/pəˈteɪtəʊ/	Khoai tây
+power	(n)	/ˈpaʊə/	Quyền lực
+preference	(n)	/ˈprɛfərəns/	Sự ưa thích
+preparation	(n)	/ˌprɛpəˈreɪʃən/	Sự chuẩn bị
+presence	(n)	/ˈprɛzns/	Sự hiện diện
+presentation	(n)	/ˌprɛzɛnˈteɪʃən/	Trình bày
+president	(n)	/ˈprɛzɪdənt/	Chủ tịch
+priority	(n)	/praɪˈɒrɪti/	Quyền ưu tiên
+problem	(n)	/ˈprɒbləm/	Vấn đề
+procedure	(n)	/prəˈsiːʤə/	Phương pháp
+product	(n)	/ˈprɒdʌkt/	Sản phẩm
+profession	(n)	/prəˈfɛʃən/	Nghề nghiệp
+professor	(n)	/prəˈfɛsə/	Giáo sư
+promotion	(n)	/prəˈməʊʃən/	Khuyến mãi
+property	(n)	/ˈprɒpəti/	Bất động sản
+proposal	(n)	/prəˈpəʊzəl/	Đề nghị
+protection	(n)	/prəˈtɛkʃən/	Sự bảo vệ
+psychology	(n)	/saɪˈkɒləʤi/	Tâm lý học
+quality	(n)	/ˈkwɒlɪti/	Chất lượng
+quantity	(n)	/ˈkwɒntɪti/	Số lượng
+queen	(n)	/kwiːn/	Nữ hoàng
+ratio	(n)	/ˈreɪʃɪəʊ/	Tỉ lệ
+reaction	(n)	/ri(ː)ˈækʃən/	Sự phản ứng
+reading	(n)	/ˈriːdɪŋ/	Cách đọc
+reality	(n)	/ri(ː)ˈælɪti/	Thực tế
+reception	(n)	/rɪˈsɛpʃən/	Tiếp nhận
+recipe	(n)	/ˈrɛsɪpi/	Công thức
 recognition	(n)	/ˌrɛkəgˈnɪʃən/	Sự công nhận
+recommendation	(n)	/ˌrɛkəmɛnˈdeɪʃən/	Khuyến nghị
+recording	(n)	/rɪˈkɔːdɪŋ/	Ghi âm
+reflection	(n)	/rɪˈflɛkʃən/	Sự phản xạ
+refrigerator	(n)	/rɪˈfrɪʤəreɪtə/	Tủ lạnh
+region	(n)	/ˈriːʤən/	Vùng
+relation	(n)	/rɪˈleɪʃən/	Quan hệ
+relationship	(n)	/rɪˈleɪʃənʃɪp/	Mối quan hệ
+replacement	(n)	/rɪˈpleɪsmənt/	Sự thay thế
+republic	(n)	/rɪˈpʌblɪk/	Nước cộng hòa
 reputation	(n)	/ˌrɛpju(ː)ˈteɪʃən/	Danh tiếng
+requirement	(n)	/rɪˈkwaɪəmənt/	Yêu cầu
+resolution	(n)	/ˌrɛzəˈluːʃən/	Độ phân giải
+resource	(n)	/rɪˈsɔːs/	Tài nguyên
+respect	(n)	/rɪsˈpɛkt/	Tôn trọng
+response	(n)	/rɪsˈpɒns/	Câu trả lời
+responsibility	(n)	/rɪsˌpɒnsəˈbɪlɪti/	Trách nhiệm
+restaurant	(n)	/ˈrɛstrɒnt/	Nhà hàng
+revenue	(n)	/ˈrɛvɪnjuː/	Lợi tức
+revolution	(n)	/ˌrɛvəˈluːʃən/	Cuộc cách mạng
+river	(n)	/ˈrɪvə/	Sông
+road	(n)	/rəʊd/	Đường
+role	(n)	/rəʊl/	Vai trò
+safety	(n)	/ˈseɪfti/	Sự an toàn
+salad	(n)	/ˈsæləd/	Xà lách
+sample	(n)	/ˈsɑːmpl/	Mẫu
+satisfaction	(n)	/ˌsætɪsˈfækʃən/	Sự hài lòng
+scene	(n)	/siːn/	Sân khấu
+science	(n)	/ˈsaɪəns/	Khoa học
+seat	(n)	/siːt/	Ghế
+secretary	(n)	/ˈsɛkrətri/	Thư ký
+sector	(n)	/ˈsɛktə/	Khu vực
+security	(n)	/sɪˈkjʊərɪti/	An ninh
+selection	(n)	/sɪˈlɛkʃən/	Sự lựa chọn
+series	(n)	/ˈsɪəriːz/	Loạt
+session	(n)	/ˈsɛʃən/	Buổi họp
+setting	(n)	/ˈsɛtɪŋ/	Thiết lập
 shirt	(n)	/ʃɜːt/	Áo sơ mi
+shopping	(n)	/ˈʃɒpɪŋ/	Mua sắm
+signature	(n)	/ˈsɪgnɪʧə/	Chữ ký
+significance	(n)	/sɪgˈnɪfɪkəns/	Ý nghĩa
+singer	(n)	/ˈsɪŋə/	Ca sĩ
 sir	(n)	/sɜː/	Ngài
+sister	(n)	/ˈsɪstə/	Chị
+situation	(n)	/ˌsɪtjʊˈeɪʃən/	Tình hình
+skill	(n)	/skɪl/	Kỹ năng
+society	(n)	/səˈsaɪəti/	Xã hội
+software	(n)	/ˈsɒftweə/	Phần mềm
+solution	(n)	/səˈluːʃən/	Dung dịch
+son	(n)	/sʌn/	Con trai
+song	(n)	/sɒŋ/	Bài hát
+soup	(n)	/suːp/	Soup
 speaker	(n)	/ˈspiːkə/	Loa
+speech	(n)	/spiːʧ/	Lời nói
+statement	(n)	/ˈsteɪtmənt/	Tuyên bố
+steak	(n)	/steɪk/	Miếng bò hầm
+storage	(n)	/ˈstɔːrɪʤ/	Lưu trữ
+story	(n)	/ˈstɔːri/	Câu chuyện
 stranger	(n)	/ˈstreɪnʤə/	Người lạ
+strategy	(n)	/ˈstrætɪʤi/	Chiến lược
+student	(n)	/ˈstjuːdənt/	Sinh viên
+studio	(n)	/ˈstjuːdɪəʊ/	Phòng thu
+study	(n)	/ˈstʌdi/	Nghiên cứu
+success	(n)	/səkˈsɛs/	Sự thành công
+suggestion	(n)	/səˈʤɛsʧən/	Gợi ý
+supermarket	(n)	/ˈsjuːpəˌmɑːkɪt/	Siêu thị
 surgery	(n)	/ˈsɜːʤəri/	Phẫu thuật
 sympathy	(n)	/ˈsɪmpəθi/	Thông cảm
+system	(n)/ˈsɪstɪm/	Hệ	thống
 tale	(n)	/teɪl/	Truyện
+tea	(n)	/tiː/	Trà
+teacher	(n)	/ˈtiːʧə/	Giáo viên
+teaching	(n)	/ˈtiːʧɪŋ/	Giảng dạy
+technology	(n)	/tɛkˈnɒləʤi/	Công nghệ
+television	(n)	/ˈtɛlɪˌvɪʒən/	Tivi
+temperature	(n)	/ˈtɛmprɪʧə/	Nhiệt độ
+tennis	(n)	/ˈtɛnɪs/	Quần vợt
+tension	(n)	/ˈtɛnʃən/	Sức ép
+thanks	(n)	/θæŋks/	Lời cảm ơn
+theory	(n)	/ˈθɪəri/	Lý thuyết
+thing	(n)	/θɪŋ/	những vật
+thought	(n)	/θɔːt/	Tư tưởng
 throat	(n)	/θrəʊt/	Họng
+time	(v,	n)	/taɪm/	Thời gian, định giờ
+tongue	(n)	/tʌŋ/	Lưỡi
+tooth	(v,	n)	/tuːθ/	Răng, ăn khớp nhau
+topic	(n)	/ˈtɒpɪk/	Chủ đề
+town	(n)	/taʊn/	Thành phố
+tradition	(n)	/trəˈdɪʃən/	Truyền thống
 trainer	(n)	/ˈtreɪnə/	Huấn luyện viên
+transportation	(n)	/ˌtrænspɔːˈteɪʃən/	Giao thông vận tải
+truth	(n)	/truːθ/	Sự thật
+two	(n)	/tuː/	Hai
 uncle	(n)	/ˈʌŋkl/	Chú
-youth	(n)	/juːθ/	Tuổi trẻ
-time	(v,n)	/taɪm/	Thời gian, định giờ
-work	(v,n)	/wɜːk/	Công việc, hoạt động
-film	(v,n)	/fɪlm/	Phim ảnh, quay phim
+understanding	(n)	/ˌʌndəˈstændɪŋ/	Hiểu biết
+union	(n)	/ˈjuːnjən/	Liên hiệp
+unit	(n)	/ˈjuːnɪt/	Đơn vị
+university	(n)	/ˌjuːnɪˈvɜːsɪti/	Trường đại học
+user	(n)	/ˈjuːzə/	Người sử dụng
+variation	(n)	/ˌveərɪˈeɪʃən/	Sự biến đổi
+variety	(n)	/vəˈraɪəti/	Đa dạng
+vehicle	(n)	/ˈviːɪkl/	Xe cộ
+version	(n)	/ˈvɜːʃən/	Phiên bản
+video	(n)	/ˈvɪdɪəʊ/	Video
+village	(n)	/ˈvɪlɪʤ/	Làng
+virus	(n)	/ˈvaɪərəs/	Virus
+volume	(n)	/ˈvɒljʊm/	Thể tích
+warning	(n)	/ˈwɔːnɪŋ/	Cảnh báo
 water	(n)	/ˈwɔːtə/	Nước
-money	(n)	/ˈmʌni/	Tiền
-example	(n)	/ɪgˈzɑːmpl/	Thí dụ
-while	(conj,n)	/waɪl/	Trong khi
-business	(n)	/ˈbɪznɪs/	Kinh doanh
-study	(n)	/ˈstʌdi/	Nghiên cứu
-game	(n)	/geɪm/	Trò chơi
-life	(n)	/laɪf/	Đời sống
-form	(n)	/fɔːm/	Hình thức
+way	(n)	/weɪ/	Đường
+weakness	(n)	/ˈwiːknɪs/	Yếu đuối
+wealth	(n)	/wɛlθ/	Sự giàu có
+wedding	(n)	/ˈwɛdɪŋ/	Kết hôn
+week	(n)	/wiːk/	Tuần
+while	(conj,	n)	/waɪl/	Trong khi
+wife	(n)	/waɪf/	Vợ
+winner	(n)	/ˈwɪnə/	Người chiến thắng
+woman	(n)	/ˈwʊmən/	Đàn bà
+wood	(n)	/wʊd/	Gỗ
+work	(v,	n)	/wɜːk/	Công việc, hoạt động
+worker	(n)	/ˈwɜːkə/	Công nhân
+world	(n)	/wɜːld/	Thế giới
+writer	(n)	/ˈraɪtə/	Nhà văn
+writing	(n)	/ˈraɪtɪŋ/	Hiện ra, sự viết
+year	(n)	/jɪə/	Năm
+youth	(n)	trẻ
